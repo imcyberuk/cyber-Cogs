@@ -62,9 +62,9 @@ class AutoPing(commands.Cog):
 
     @commands.Cog.listener()
     async def on_message(self, message: Message):
-        if message.author.bot or not message.guild:
+        if not message.guild:  # Only check if the message is not in a guild
             return
-
+    
         rate_limit = await self.config.channel(message.channel).rate_limit()
         if message.channel.id in self.last_ping:
             if (datetime.datetime.utcnow()) - self.last_ping[
