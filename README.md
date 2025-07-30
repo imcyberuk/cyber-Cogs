@@ -23,32 +23,11 @@ Then you can install cogs: `[p]cog install vex-cogs cogname`
 
 There's a list of cogs below, or you can use `[p]cog list vex-cogs` if you've added the repo.
 
-| Cog name | Description |
-| --- | --- |
-| [aliases](https://go.vexcodes.com/c/aliases) | Get all the information you could ever need about a command's aliases. |
-| [anotherpingcog](https://go.vexcodes.com/c/anotherpingcog) | Another ping cog... But this one has fancy colours in a customisable embed! |
+| Cog name                                       | Description                                                                   |
+| ---------------------------------------------- | ----------------------------------------------------------------------------- |
 | [autoping](https://go.vexcodes.com/c/autoping) | Automatically ping a user/role when a message is sent in a specified channel. |
-| [beautify](https://go.vexcodes.com/c/beautify) | Beautify and minify JSON. |
-| [betteruptime](https://go.vexcodes.com/c/betteruptime) | See your bot's uptime percentages and check when downtime happened. |
-| [birthday](https://go.vexcodes.com/c/birthday) | Birthday cog with customisable messages and roles. |
-| [buttonpoll](https://go.vexcodes.com/c/buttonpoll) | Create polls with buttons! |
-| [calc](https://go.vexcodes.com/c/calc) | A simple button-based calculator. |
-| [caseinsensitive](https://go.vexcodes.com/c/caseinsensitive) | Make all prefixes and commands case insensitive. |
-| [cmdlog](https://go.vexcodes.com/c/cmdlog) | Track command usage, searchable by user, server or command name. |
-| [covidgraph](https://go.vexcodes.com/c/covidgraph) | Get graphs of COVID-19 data. |
-| [fivemstatus](https://go.vexcodes.com/c/fivemstatus) | View the live status of a FiveM server, in a updating Discord message. |
-| [ghissues](https://go.vexcodes.com/c/ghissues) | Create, comment, labelify and close GitHub issues, with some PR support. |
-| [googletrends](https://go.vexcodes.com/c/googletrends) | Find out what the world is searching, right from Discord. |
-| [madtranslate](https://go.vexcodes.com/c/madtranslate) | Translate text through lots of languages. Get some funny results! |
-| [roleplay](https://go.vexcodes.com/c/roleplay) | Create an anonymous role play in your server. |
-| [stattrack](https://go.vexcodes.com/c/stattrack) | Track metrics about your bot and view them in Discord. |
-| [status](https://go.vexcodes.com/c/status) | Recieve automatic status updates from various services, including Discord. |
-| [system](https://go.vexcodes.com/c/system) | Get system metrics of the host device, such as RAM or CPU. |
-| [timechannel](https://go.vexcodes.com/c/timechannel) | Get the time in different timezones in voice channels. |
-| [uptimeresponder](https://go.vexcodes.com/c/uptimeresponder) | Cog for responding to uptime monitoring service pings. |
-| [wol](https://go.vexcodes.com/c/wol) | Use Wake on LAN from Discord! This cog sends magic packets on the local network.
 
-All these cogs have docs! My docs [are here](https://cogdocs.vexcodes.com/en/latest) or click on the cog name to go directly to that cog's docs page.
+All these cogs have docs! VexCodes' docs [are here](https://cogdocs.vexcodes.com/en/latest) or click on the cog name to go directly to that cog's docs page.
 
 ---
 
